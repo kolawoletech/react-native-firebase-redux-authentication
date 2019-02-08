@@ -2,12 +2,12 @@ import firebase from '@firebase/app';
 import '@firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyBx0YuFCeqedFUGgpmdZOr7T7wGzy9N8Qo',
-  authDomain: 'pulso-3f393.firebaseapp.com',
-  databaseURL: 'https://pulso-3f393.firebaseio.com',
-  projectId: 'pulso-3f393',
-  storageBucket: 'pulso-3f393.appspot.com',
-  messagingSenderId: '677974717412'
+  apiKey: "AIzaSyB6YABGXUWiqLzHoxuQ1E1Z7FO67FGD7-4",
+  authDomain: "nilemediaonline.firebaseapp.com",
+  databaseURL: "https://nilemediaonline.firebaseio.com",
+  projectId: "nilemediaonline",
+  storageBucket: "nilemediaonline.appspot.com",
+  messagingSenderId: "660857508341"
 };
 
 let instance = null;
